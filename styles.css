@@ -1,0 +1,50 @@
+Img{ width:350;}
+
+.img-with-text-right {
+    text-align: justify;
+    width: 350;
+	float: right;    
+ margin: 0 0 0 15px;
+}
+
+.img-with-text-left {
+    text-align: justify;
+    width: 350;
+	float: left;    
+ margin: 0 0 0 15px;
+}
+
+body{ font-family:Arial;
+      background-color: #fdfdfd
+}
+
+.linkcolor {
+	color: 3fb0ac;
+	}
+
+#backgroundstyle {background-color: EBF5FB;
+                 } 
+
+
+#brbig {
+        line-height: 482%;
+     }
+	 
+.ridge {border-style: ridge; display: inline-block}
+
+#floatleft  {
+float: left;    
+ margin: 0 0 0 15px;
+}
+
+#floatright  {
+float: right;    
+ margin: 0 0 0 15px;
+}
+
+.listcitcle {
+  list-style-type: circle;
+}
+
+.pad-up   {padding-top: 214px
+} 
